@@ -28,15 +28,14 @@ body {
 }
 
 .perfil-foto {
-  max-width: 30%;
+  max-width: 40%;
   border-radius: 50px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
 }
 .logo-img {
-  max-width: 160px;
-  border-radius: 10px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
-  margin-right: 80px;
+  max-width: 15%;
+  border: none;
+  margin-right: 180px;
 }
 
 .titulo {
@@ -46,18 +45,18 @@ body {
 .titulo h1 {
   text-shadow: 2px 2px 2px #363636;
   font-weight: 700;
-  font-size: 36px;
+  font-size: 46px;
 }
 
 .titulo h3 {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 36px;
   color: #1c1c1c;
   margin-bottom: 0px;
 }
 
 .titulo h4 {
-  margin-top: 8px;
+  margin-top: 24px;
   color: #363636;
 }
 
